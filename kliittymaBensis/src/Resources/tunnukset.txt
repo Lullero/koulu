@@ -1,0 +1,4 @@
+Käyttäjätunnus: ktunnus
+Salasana: salasana
+
+PIN: 1010
